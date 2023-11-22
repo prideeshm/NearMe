@@ -192,4 +192,4 @@ institutions.html
 ![Alt text](institutions.png)
 
 ## RESULT
-The program for implementing image maps using HTML is executed successfully.
+The program for implementing image maps using HTML is executed successfully
